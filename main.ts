@@ -55,9 +55,8 @@ export default class TooltipPlugin extends Plugin {
 				if (thisP[0] == this.settings.propertyName){
 					const ctime = format(new Date(file.stat.ctime), "yyyy-mm-dd HH:MM");
 					const mtime = format(new Date(file.stat.mtime), "yyyy-mm-dd HH:MM");
-					setTooltip(target, thisP[1]+'\nLast modified at '+mtime+'\nCreated at '+ctime, {placement:'right'});
+					setTooltip(target, thisP[1]+'\n\nLast modified at '+mtime+'\nCreated at '+ctime, {placement:'right'});
 				}
-
 			});
 		}
 	}

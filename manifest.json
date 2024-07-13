@@ -1,0 +1,11 @@
+{
+	"id": "Tooltip-File-Property-in-Eplorer",
+	"name": "Tooltip File property in Eplorer",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Choose one property in the frontmatter to show in the tooltips in file explorer.",
+	"author": "AlienTurning",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}

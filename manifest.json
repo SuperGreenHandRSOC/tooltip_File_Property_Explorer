@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Choose one property in the frontmatter to show in the tooltips in file explorer.",
-	"author": "AlienTurning",
+	"author": "rsoc",
 	"authorUrl": "",
 	"fundingUrl": "",
 	"isDesktopOnly": true
